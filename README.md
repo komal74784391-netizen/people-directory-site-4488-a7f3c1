@@ -7,3 +7,5 @@ The site is rendered from Markdown.  The public directory lives in
 release is kept in `roster/`.
 
 Build and publishing notes are maintained by the web team.
+
+Publishing is done from the default branch only.
