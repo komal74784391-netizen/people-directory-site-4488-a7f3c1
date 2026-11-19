@@ -1,0 +1,8 @@
+{
+  "template_revision": {
+    "commit": "38c9d4185f86c9b14070aa30d27086c00058f684",
+    "author": "Kwame Asante",
+    "email": "kwame.asante@relay-labs.example",
+    "message": "chore: adjust template heading and localization block"
+  }
+}
